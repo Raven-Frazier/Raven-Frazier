@@ -24,14 +24,51 @@ Industrial maintenance experience with Goodyear provided hands-on experience wit
 
 # Course Portfolio
 
-## Course 1: Networking 1
+<details>
+<summary>Course 1: Networking 1</summary>
 
-## Course 2: Computer and Security Essentials
+- Learned networking fundamentals
+- Studied network devices, protocols, and configurations
+- Practiced troubleshooting basic network issues
 
-## Course 3: Operating Systems 1
+</details>
 
-## Course 4: Security
+<details>
+<summary>Course 2: Computer and Security Essentials</summary>
 
-## Course 5: Server 1
+- Learned computer hardware and security fundamentals
+- Studied common security practices and concepts
 
-## Course 6: Networking and Security 1
+</details>
+
+<details>
+<summary>Course 3: Operating Systems 1</summary>
+
+- Learned operating system fundamentals
+- Practiced system management and configuration
+
+</details>
+
+<details>
+<summary>Course 4: Security</summary>
+
+- Studied cybersecurity concepts and threats
+- Learned security principles and protection methods
+
+</details>
+
+<details>
+<summary>Course 5: Server 1</summary>
+
+- Learned server fundamentals and administration concepts
+- Worked with server roles and configurations
+
+</details>
+
+<details>
+<summary>Course 6: Networking and Security 1</summary>
+
+- Combined networking and security concepts
+- Applied security practices to network environments
+
+</details>
