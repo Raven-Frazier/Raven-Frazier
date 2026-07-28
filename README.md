@@ -9,8 +9,6 @@ Industrial maintenance experience includes high-voltage electrical systems, sche
 
 ## 🛠️ Skills Learned
 
-## 🛠️ Skills Learned
-
 #### 🖥️ Technical Essentials
 
 ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0078D4?style=flat-square)
