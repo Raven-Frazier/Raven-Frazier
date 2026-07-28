@@ -7,20 +7,33 @@ Military experience includes working with avionics maintenance systems such as N
 Industrial maintenance experience with Goodyear provided hands-on experience with high-voltage electrical systems, schematics, root cause analysis, SAP maintenance systems, and industrial automation technologies including PLCs and robotics. Currently developing IT skills as an ITSA student at My Computer Career, focusing on networking, operating systems, server administration, and cybersecurity fundamentals.
 
 
-# Skills Learned
+<h2>🛠️ Skills Learned</h2>
 
+<h3>🖥️ Technical Foundations</h3>
 
-🖥️ Technical Foundations: Computer Hardware | Operating Systems | System Troubleshooting | Technical Documentation
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">Computer Hardware</span>
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">Operating Systems</span>
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">System Troubleshooting</span>
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">Technical Documentation</span>
 
-🌐 Networking & Security: Networking Fundamentals | TCP/IP | DHCP | Routing & Switching | Security Fundamentals
+<h3>🌐 Networking & Security</h3>
 
-🔒 Cybersecurity & Compliance: Threat Awareness | Risk Management | Vulnerability Concepts | Security Best Practices | Quality Assurance
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">Networking Fundamentals</span>
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">TCP/IP</span>
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">DHCP</span>
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">Routing & Switching</span>
 
-⚙️ Systems & Maintenance: Avionics Systems | Preventive Maintenance | Root Cause Analysis | Fault Isolation | SAP Maintenance Systems
+<h3>🔒 Cybersecurity & Compliance</h3>
 
-⚡ Industrial Technology: Electrical Systems | High Voltage Troubleshooting | Schematics | PLC Fundamentals | Robotics
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">Threat Awareness</span>
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">Risk Management</span>
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">Vulnerability Concepts</span>
 
-💻 Software & Data Tools: Microsoft 365 | NALCOMIS | Data Management | Reporting Systems
+<h3>⚡ Industrial Technology</h3>
+
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">Electrical Systems</span>
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">PLC Fundamentals</span>
+<span style="background-color:#007bff;color:white;padding:6px 12px;border-radius:12px;">Robotics</span>
 
 # Course Portfolio
 
