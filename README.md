@@ -1,16 +1,37 @@
-## Hi there 👋
+# Professional Summary
 
-<!--
-**Raven-Frazier/Raven-Frazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+U.S. Marine Corps veteran with a background in avionics systems, industrial technology, and technical operations, transitioning into Information Technology and Cybersecurity. Experience supporting mission-critical environments through avionics maintenance, technical troubleshooting, quality assurance, data management, and structured maintenance processes.
 
-Here are some ideas to get you started:
+Military experience includes working with avionics maintenance systems such as NALCOMIS and Microsoft Access, managing squadron hazardous materials operations, and serving as a Collateral Duty Inspector (CDI) responsible for verifying maintenance actions, system testing, troubleshooting, and repairs were completed according to technical publications and safety standards. Held a Secret security clearance while operating in environments requiring accountability, attention to detail, and strict adherence to procedures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Industrial maintenance experience with Goodyear provided hands-on experience with high-voltage electrical systems, schematics, root cause analysis, SAP maintenance systems, and industrial automation technologies including PLCs and robotics. Currently developing IT skills as an ITSA student at My Computer Career, focusing on networking, operating systems, server administration, and cybersecurity fundamentals.
+
+
+# Skills Learned
+
+
+🖥️ Technical Foundations: Computer Hardware | Operating Systems | System Troubleshooting | Technical Documentation
+
+🌐 Networking & Security: Networking Fundamentals | TCP/IP | DHCP | Routing & Switching | Security Fundamentals
+
+🔒 Cybersecurity & Compliance: Threat Awareness | Risk Management | Vulnerability Concepts | Security Best Practices | Quality Assurance
+
+⚙️ Systems & Maintenance: Avionics Systems | Preventive Maintenance | Root Cause Analysis | Fault Isolation | SAP Maintenance Systems
+
+⚡ Industrial Technology: Electrical Systems | High Voltage Troubleshooting | Schematics | PLC Fundamentals | Robotics
+
+💻 Software & Data Tools: Microsoft 365 | NALCOMIS | Data Management | Reporting Systems
+
+# Course Portfolio
+
+## Course 1: Networking 1
+
+## Course 2: Computer and Security Essentials
+
+## Course 3: Operating Systems 1
+
+## Course 4: Security
+
+## Course 5: Server 1
+
+## Course 6: Networking and Security 1
